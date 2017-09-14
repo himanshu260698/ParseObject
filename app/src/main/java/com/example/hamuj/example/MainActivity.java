@@ -25,10 +25,7 @@ import java.util.List;
 public class MainActivity extends AppCompatActivity {
 
 
-    EditText user;
-    EditText passwordField;
-    TextView changeSignUpModeTextView;
-    Button signUpButton;
+  
 
     Boolean signUpModeActive;
 
